@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:trusty
 MAINTAINER Prasant Kumar <publicapi@live.com>
 
 # Prevent dpkg errors
